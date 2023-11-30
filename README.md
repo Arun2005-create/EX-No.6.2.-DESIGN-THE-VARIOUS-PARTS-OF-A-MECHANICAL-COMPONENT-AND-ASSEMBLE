@@ -48,7 +48,8 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![image](https://user-images.githubusercontent.com/113594316/199641859-1ebade5e-7bb4-4047-aa4b-89ae1d934ba0.png)
 
 ## OUTPUT:
-![EDM Ex 6 2_page-0001](https://github.com/Arun2005-create/EX-No.6.2.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/138849356/46e9b1b8-320c-4288-8b4b-626b20a23b32)
+![Arun Ex 6 2 09_page-0001](https://github.com/Arun2005-create/EX-No.6.2.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/138849356/334a48ce-fd25-4d5f-b96e-00be252ee218)
+
 
 
 ## RESULT:
